@@ -1081,6 +1081,7 @@ fill: var(--primary-white-color);
 }
 
 .agreement-link {
+    text-decoration: underline;
     color: var(--accent-color);
     padding-left: 3px;
 }
